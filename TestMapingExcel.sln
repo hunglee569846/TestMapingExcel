@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMapingExcel", "TestMapingExcel\TestMapingExcel.csproj", "{F8B3B0F2-F91E-4869-A9ED-E353766A0399}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestExcel2", "TestExcel2\TestExcel2.csproj", "{9C5DF7CF-02BD-40BC-AC9B-4CCF661FBC86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8B3B0F2-F91E-4869-A9ED-E353766A0399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B3B0F2-F91E-4869-A9ED-E353766A0399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B3B0F2-F91E-4869-A9ED-E353766A0399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B3B0F2-F91E-4869-A9ED-E353766A0399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C5DF7CF-02BD-40BC-AC9B-4CCF661FBC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5DF7CF-02BD-40BC-AC9B-4CCF661FBC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5DF7CF-02BD-40BC-AC9B-4CCF661FBC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5DF7CF-02BD-40BC-AC9B-4CCF661FBC86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97EEB760-C48C-4855-93DB-C03F522F2DE4}
+	EndGlobalSection
+EndGlobal
